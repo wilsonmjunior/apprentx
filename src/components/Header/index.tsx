@@ -1,7 +1,7 @@
 import React from 'react'
 import { RFValue } from 'react-native-responsive-fontsize'
 
-import Logo from '../../assets/logo.svg'
+import Logo from '../../assets/custeio.svg'
 
 import {
   Container,
